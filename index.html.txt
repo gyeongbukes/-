@@ -1,0 +1,3 @@
+<script>
+  window.location.replace("https://script.google.com/macros/s/AKfycbzk4taNyoNqBaTjrBVJTgEhyYI1Eg5eQ3GgIR1sgm43IAU-uxP8TNCqkG92T8-43RRG/exec");
+</script>
